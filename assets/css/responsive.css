@@ -1,0 +1,360 @@
+@media only screen and (max-width:1920px) {
+
+}
+@media only screen and (max-width:1540px) {
+img.img-1 {
+    width: 100%;
+}
+.shop-name p a {
+    font-size: 32px;
+}
+}
+@media only screen and (max-width:1280px) {
+
+.footer-ul li.footer-li-heading {
+    font-size: 20px;
+}
+.footer-ul li a {
+    font-size: 14px;
+}
+.footer-ul li {
+    font-size: 14px;
+}
+.nursing-exam-text p {
+    font-size: 26px;
+}
+.person-name p, .person-award p {
+    font-size: 12px;
+}
+.d-card .rate-text i {
+    font-size: 12px;
+}
+.card-heading p {
+    font-size: 16px;
+}
+.d-card .rate-text p {
+    font-size: 14px;
+}
+.banner-main-heading p {
+    font-size: 50px;
+}
+.main-heading p {
+    font-size: 40px;
+}
+.testimonial-main-heading p {
+    font-size: 40px;
+}
+.owl-theme .owl-nav {
+    margin-top: 15px;
+}
+img.img-2 {
+    width: 100%;
+}
+.shop-name p a {
+    font-size: 30px;
+}
+}
+
+@media only screen and (max-width:1080px) {
+	nav.header-nav ul.chat-cont {
+    display: flex;
+    padding-left: 40px;
+}
+.mobile-toggle {
+     display: block; 
+}
+.sidebar {
+    max-width: 350px;
+    width: 100%;
+    height: 100%;
+    background-color: #181818;
+    position: fixed;
+    left: -100%;
+    z-index: 9999;
+    transition: all 0.5s ease-in-out;
+}
+.main {
+    width: 100%;
+}
+.link-wrap {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.header-nav ul.login-cont .login-sty {
+    padding: 0px 15px;
+}
+.footer-logo {
+    max-width: 200px;
+}
+}
+
+@media only screen and (max-width:1024px) {
+
+.testimonial-section {
+    padding: 40px 0;
+}
+}
+@media only screen and (max-width:991px) {
+	.about-us-section {
+    padding: 50px 0;
+}
+	.banner-main-heading p {
+    font-size: 45px;
+}
+	.testimonial-text p {
+    max-width: 660px;
+    margin: 0 auto;
+}
+button.get-start-btn {
+    margin-top: 20px;
+}
+.get-start-btn-cont {
+    display: flex;
+    justify-content: center;
+}
+.nursing-exam-text p {
+    text-align: center;
+}
+}
+
+@media only screen and (max-width:910px) {
+	.banner-cont {
+    /*height: 800px;*/
+}
+}
+@media only screen and (max-width:800px) {
+	.chat-cont li.chat-sty {
+    color: #fff;
+    margin-right: 30px;
+}
+}
+
+@media only screen and (max-width:768px) {
+
+	.testimonial-section {
+    padding: 20px 0px 40px 0;
+}
+	section.our-blog-section {
+    padding: 50px 0;
+}
+	.d-card {
+    margin-bottom: 25px;
+}
+	.banner-main-heading p {
+    font-size: 40px;
+}
+	.testimonial-text p {
+    max-width: 520px;
+    margin: 0 auto;
+}
+.chat-cont li.chat-sty {
+    margin-right: 10px;
+}
+@media only screen and (max-width:660px){
+  /* .index-banner-text .heading {
+    font-size: 40px;
+}
+.index-banner-text p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+.index-sec-2 .title, .index-sec-3 .title,
+.index-4-text .heading, .index-sec-5 .title{
+    font-size: 36px;
+} */
+.login-modal{
+  min-height: auto;
+  padding-top: 140px;
+}
+.login-modal .modal-logo{
+  width: 150px;
+    height: 55px;
+  background: url(../images/logo.png);
+  background-size: cover;
+  margin-bottom: 20px;
+}
+.login-modal button.slide-button {
+    padding: 10px 30px;
+}
+.login-modal .overlay{
+  width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    transform: none !important;
+}
+.login-modal .overlay-panel h1,
+.login-modal .overlay-panel p{
+  display: none;
+}
+.login-modal .overlay-container{
+  width: 100%;
+  left: 0;
+  height: 150px;
+}
+.login-modal .overlay-panel{
+  width: 100%;
+}
+.login-modal .sign-up-container,
+.login-modal .sign-in-container {
+    width: 100%;
+    padding: 30px 0;
+}
+.login-modal .sign-up-container{
+  position: absolute;
+  transform: translateY(-100%);
+}
+.login-modal .sign-in-container{
+  position: relative;
+}
+.login-modal.right-panel-active .sign-in-container {
+    transform: translateY(100%);
+    position: absolute;
+}
+.login-modal.right-panel-active .sign-up-container {
+    transform: none;
+    position: relative;
+    transform: translateY(0%);
+} 
+.login-modal .overlay-left {
+    transform: translateY(-100%);
+}
+.login-modal .overlay-right{
+
+}
+.login-modal.right-panel-active .overlay-left{
+  transform: translateY(0%);
+}
+.login-modal.right-panel-active .overlay-right{
+  transform: translateY(-100%);
+}
+.login-modal.right-panel-active .overlay-container {
+    transform: none;
+}
+}
+
+
+@media only screen and (max-width:575px) {
+		.banner-main-heading p {
+    font-size: 30px;
+}
+	nav.header-nav ul.chat-cont{
+		margin-top: 10px;
+	}
+	.header-left {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    z-index: 11;
+}
+	.testimonial-text p {
+    max-width: 399px;
+    margin: 0 auto;
+}
+.header-nav ul.login-cont .login-sty {
+    padding: 13px 15px;
+}
+nav.header-nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.link-wrap {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+.header-nav ul.login-cont {
+    display: flex;
+    justify-content: center;
+}
+nav.header-nav ul.chat-cont {
+    display: flex;
+    padding-left: 0px;
+    justify-content: center;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.employees, .customer, .design, .order {
+    /* margin-top: 70px; */
+    margin-bottom: 35px;
+}
+}
+@media only screen and (max-width:480px) {
+	.banner-cont {
+    background-position: 70% 100%;
+}
+.banner-main-heading p {
+    font-size: 30px;
+}
+.main-heading p {
+    font-size: 35px;
+}
+.testimonial-main-heading p {
+    font-size: 42px;
+}
+}
+@media only screen and (max-width:414px){
+    
+    .login-modal form{
+        padding: 0 20px;
+    }
+    .login-modal h1 {
+        font-size: 26px;
+    }
+
+}
+
+
+@media only screen and (max-width:385px) {
+	.banner-main-heading p {
+    font-size: 33px;
+}
+.main-heading p {
+    font-size: 40px;
+}
+.testimonial-main-heading p {
+    font-size: 40px;
+}
+button.transparent-button {
+    padding: 10px 0px;
+    width: 160px;
+}
+button.red-button {
+    padding: 10px 0px;
+    width: 160px;
+}
+img.img-1,
+img.img-2,
+img.img-3 {
+    width: 100%;
+}
+
+}
+@media only screen and (max-width:320px){
+.link-wrap{
+	position: relative;
+    width: 100%;
+}
+.chat-cont{
+	padding-top: 50px;
+}
+.login-cont{
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin-left: 0px;
+}
+.header-nav ul.login-cont .login-sty{
+	margin-right: 5px;
+	margin-left: 0px;
+}
+.main-heading p {
+    font-size: 30px;
+}
+}
